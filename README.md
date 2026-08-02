@@ -252,6 +252,13 @@ https://github.com/bayantai2012-star/Business-Growth
 
 https://business-growth-sand.vercel.app
 
+**Canva presentation**
+
+https://canva.link/4i3rjgzwc473rnr 
+
+**Demo-video link (Google Drive)**
+
+
 ---
 
 # 💡 Перспективы развития
