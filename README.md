@@ -64,6 +64,27 @@ BusinessGrowth — это цифровая платформа для малог�
 - Стабильное функционирование платформы
 
 ---
+# Implemented Tournament Requirements
+
+✔ User Registration
+
+✔ User Login
+
+✔ Business Analysis
+
+✔ Browse Business Tools
+
+✔ AI Recommendation System
+
+✔ Promotion Creation
+
+✔ Personal Dashboard
+
+✔ Analytics Dashboard
+
+✔ Admin Panel
+
+---
 
 # Technologies
 
